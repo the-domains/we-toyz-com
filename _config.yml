@@ -1,0 +1,21 @@
+github: true
+name: We❤️Toyz.com
+title: Toyz
+author:
+  email: Welivetoys.com@gmail.com
+  name: G1ft
+analytics: {}
+opengraph: {}
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.09154957022786829
+  lightness: 0.5001480436185719
+  saturation: 0.3059214710504565
+  rhythmicContrast: 0.5186650346775225
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
